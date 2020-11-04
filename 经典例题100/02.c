@@ -8,7 +8,7 @@
 
 */
 
-main02()
+main()
 {
 	long int i;
 	int bonus1, bonus2, bonus4, bonus6, bonus10, bonus;

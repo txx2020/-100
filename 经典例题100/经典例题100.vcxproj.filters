@@ -16,6 +16,30 @@
       <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
       <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
     </Filter>
+    <Filter Include="21-30">
+      <UniqueIdentifier>{dfa4a8c7-723d-4d69-9916-f3a8dbec0afc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="31-40">
+      <UniqueIdentifier>{4e642cdd-2976-4832-8bec-eea8d85c549d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="41-50">
+      <UniqueIdentifier>{b4ce99e2-a261-47b4-9d80-3655ccd0dd67}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="51-60">
+      <UniqueIdentifier>{5239a763-5ca7-4a72-83d1-a657c5a1f1ac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="61-70">
+      <UniqueIdentifier>{b0c32266-6715-400d-96a0-7f6f64952cbc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="71-80">
+      <UniqueIdentifier>{bf1b8e01-7332-491a-bd7a-aebcdfb990b7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="81-90">
+      <UniqueIdentifier>{c04b3a38-3110-4d8a-8ebd-83602303af68}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="91-100">
+      <UniqueIdentifier>{77574970-5fb9-40a0-be69-3e3a4dd149af}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="01.c">
@@ -59,6 +83,27 @@
     </ClCompile>
     <ClCompile Include="14.c">
       <Filter>11-20</Filter>
+    </ClCompile>
+    <ClCompile Include="15.c">
+      <Filter>11-20</Filter>
+    </ClCompile>
+    <ClCompile Include="16.c">
+      <Filter>11-20</Filter>
+    </ClCompile>
+    <ClCompile Include="17.c">
+      <Filter>11-20</Filter>
+    </ClCompile>
+    <ClCompile Include="18.c">
+      <Filter>11-20</Filter>
+    </ClCompile>
+    <ClCompile Include="19.c">
+      <Filter>11-20</Filter>
+    </ClCompile>
+    <ClCompile Include="20.c">
+      <Filter>11-20</Filter>
+    </ClCompile>
+    <ClCompile Include="21.c">
+      <Filter>21-30</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

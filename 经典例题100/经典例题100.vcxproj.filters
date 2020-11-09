@@ -108,5 +108,20 @@
     <ClCompile Include="22.c">
       <Filter>21-30</Filter>
     </ClCompile>
+    <ClCompile Include="23.c">
+      <Filter>21-30</Filter>
+    </ClCompile>
+    <ClCompile Include="24.c">
+      <Filter>21-30</Filter>
+    </ClCompile>
+    <ClCompile Include="25.c">
+      <Filter>21-30</Filter>
+    </ClCompile>
+    <ClCompile Include="26.c">
+      <Filter>21-30</Filter>
+    </ClCompile>
+    <ClCompile Include="27.c">
+      <Filter>21-30</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

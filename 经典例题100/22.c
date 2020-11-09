@@ -8,7 +8,7 @@
 
 */
 
-main()
+main22()
 {
     char i, j, k; /*i是a的对手，j是b的对手，k是c的对手*/
     for (i = 'x'; i <= 'z'; i++)
